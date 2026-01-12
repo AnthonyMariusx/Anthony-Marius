@@ -239,8 +239,3 @@ button:hover, a.btn:hover {
     transform: translateY(-2px);
     box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
 }
-
-
-button:hover, a.btn:hover {
-    background-color: #555;
-}
